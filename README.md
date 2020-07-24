@@ -3,7 +3,7 @@
 
 Hue is a video player made to be bad. It's part of an experiment I wanted to do. 
 
-Controls:
+Controls:<br><br>
 [i] (when selecting video) -> show .info file matching video<br>
 [enter] (when selecting video) -> play video // (when selecting popup) -> close popup<br>
 [escape] (when playing video) -> close video // (when selecting popup) -> close popup<br>
