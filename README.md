@@ -10,3 +10,5 @@ Controls:<br><br>
 [s] scaling mode = stretch<br>
 [f] scaling mode = fit<br>
 [e] test if pop-ups work<br>
+
+Hosted Version: https://meaxis.fr/projects/hue
