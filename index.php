@@ -18,9 +18,7 @@
 	<h1>HUE</h1>
 	<h2>DIR /VIDEOS/ - SHOWING ALL - GLORY TO MEAXISNETWORK</h2>
 	<div class="videolist" id="videolist">
-		<button data-video="warcrime.mp4">sendhelp.mp4 <span class="align-right">1m / R@e</span></button>
-		<button data-video="technology_needs_to_be_stopped.mp4">technology_needs_to_be_stopped.mp4 <span class="align-right">5s / R@e</span></button>
-		<button data-video="leafy_soda_source.mp4">leafy_soda_source.mp4 <span class="align-right">1m / RR</span></button>
+		<button data-video="sample.mp4">sample.mp4 <span class="align-right">30 seconds</span></button>
 	</div>
 </body>
 </html>
